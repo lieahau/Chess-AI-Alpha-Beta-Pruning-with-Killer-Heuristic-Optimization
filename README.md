@@ -9,3 +9,5 @@ The measured variables is the speed of time and the number of nodes made by each
 Research result:
 Killer Heuristic optimization is faster and make fewer nodes than Alpha-Beta Pruning without optimization.
 But, Killer Heuristic optimization is more unstable than Alpha-Beta Pruning without optimization.
+
+The report data is in folder Assets/Report/
